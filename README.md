@@ -1,7 +1,7 @@
-loadcurry
+loadunicornhybridblack
 ==============
 
-An EEGLAB functions that enables importing of Compumedics Neuroscan Curry data files (versions 6, 7, 8, & 9).
+An EEGLAB functions that enables importing of g.tec Unicorn Hybrid Black data files.
 
 Installation
 ------------
@@ -10,4 +10,4 @@ Once the file has downloaded, unzip the package and then copy the loadcurryX.X f
 folder.
 
 Once you restart EEGLAB, under File -> Import Data -> Using EEGLAB functions and plugins, you should now see 
-"From Neuroscan Curry files" listed as an option.
+"From Unicorn Hybrid Black files" listed as an option.
